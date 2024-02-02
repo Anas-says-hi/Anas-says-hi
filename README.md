@@ -1,7 +1,11 @@
 ## Hi
 i'm Anas Siddique.
+
+learning tech.
+
 currently working on: [Anas Calendar 🗓️](https://github.com/Anas-says-hi/anas-calendar)
 
+play [7 second Taco](https://github.com/Anas-says-hi/seven_second_taco_game)
 <!--
 **Anas-says-hi/Anas-says-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
