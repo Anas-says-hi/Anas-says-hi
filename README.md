@@ -1,5 +1,6 @@
-### Hi
-currently working on: Anas Calender
+## Hi
+i'm Anas Siddique.
+currently working on: [Anas Calendar 🗓️](https://github.com/Anas-says-hi/anas-calendar)
 
 <!--
 **Anas-says-hi/Anas-says-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
