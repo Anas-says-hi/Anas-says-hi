@@ -3,7 +3,7 @@ i'm Anas Siddique.
 
 learning tech.
 
-currently working on: [Anas Calendar 🗓️](https://github.com/Anas-says-hi/anas-calendar)
+currently working on: [Sky bound](https://github.com/Anas-says-hi/Kamikaze)
 
 play [7 second Taco](https://github.com/Anas-says-hi/seven_second_taco_game)
 <!--
