@@ -1,11 +1,8 @@
 ## Hi
-i'm Anas Siddique.
+i make games and stuff.
+and i use arch btw.
 
-learning tech.
-
-currently working on: [Sky bound](https://github.com/Anas-says-hi/Kamikaze)
-
-play [7 second Taco](https://github.com/Anas-says-hi/seven_second_taco_game)
+currently working on: [Small Valley](https://github.com/Anas-says-hi/small-valley)
 <!--
 **Anas-says-hi/Anas-says-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
